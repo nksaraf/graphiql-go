@@ -5,7 +5,10 @@ import (
 	"net/http"
 )
 
+// Handler is a http.Handler that renders the GraphiQL interface to explore the given 
+// GraphQL server 
 type Handler struct {
+	// Url is the endpoint of the GraphQL server that GraphiQL talks to
 	Url string
 }
 
