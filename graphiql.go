@@ -17,10 +17,10 @@ func (handler *Handler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 				<style>
 					html,
 					body {
-						height: 100%;
+						height: 100%%;
 						margin: 0;
 						overflow: hidden;
-						width: 100%;
+						width: 100%%;
 					}
 					#graphiql {
 						height: 100vh;
