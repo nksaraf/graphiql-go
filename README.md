@@ -17,6 +17,8 @@ import (
 
         graphql "github.com/graph-gophers/graphql-go"
         "github.com/graph-gophers/graphql-go/relay"
+        
+        // import the package in your project
         "github.com/nksaraf/graphiql-go"
 )
 
