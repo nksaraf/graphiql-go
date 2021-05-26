@@ -3,7 +3,9 @@
 
 A Http handler for your GraphQL servers in Go that renders the GraphiQL playground for you to test your server.
 
-![Screen Recording 2021-05-27 at 1 21 53 AM](https://user-images.githubusercontent.com/11255148/119724063-1297c080-be23-11eb-93b9-d2cf6c5b4fec.gif)
+![example](https://user-images.githubusercontent.com/11255148/119724739-f1839f80-be23-11eb-9b62-12bb24871472.gif)
+
+<!-- ![Screen Recording 2021-05-27 at 1 21 53 AM](https://user-images.githubusercontent.com/11255148/119724063-1297c080-be23-11eb-93b9-d2cf6c5b4fec.gif) -->
 
 ### Installation
 ```
