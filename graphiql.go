@@ -57,7 +57,7 @@ func (handler *Handler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 			<body>
 				<div id="graphiql"></div>
 				<script>
-					var fetchURL = %s;
+					var fetchURL = "%s";
 					function graphQLFetcher(graphQLParams) {
 						var headers = {
 							Accept: 'application/json',
